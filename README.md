@@ -1,4 +1,4 @@
-#  Discovery and Access Services (DAS)
+#  Discovery and ACcess Services (DACS)
 ## Team Responsibilities
 The Team is responsible for the business systems, web sites, discovery and data management for the library.  We all work remotely at least two days per week. We have daily check-ins to stay connected, with a longer check-in to plan our work for the week.  Although, because we are customer focused our priorities may shift throughout the week. We have two open positions within the team.
 Technology: The Team works on many applications utilizing Ruby, Rails, Drupal, Solr, and some legacy applications that we are working to phase out.  We have been developing any new applications in  Ruby or Rails.  We also utilize ansible for spinning up our infrastructure. 
