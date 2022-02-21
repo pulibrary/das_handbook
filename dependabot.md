@@ -1,5 +1,7 @@
 # Steps to handle dependabot PRs
 
+You can find dependabot PRs by checking [github](https://github.com/issues?q=is%3Aopen+archived%3Afalse+mentions%3Adependabot+user%3Apulibrary)
+
 1. Check to make sure CI passes on the dependabot PR.
 1. Compare the date of the PR with the date of the last commit
 to `main`.  If there have been commits since dependabot made
