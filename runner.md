@@ -1,5 +1,7 @@
 # Runner role
 
+The runner role switches off between team members each week.  The runner should be somebody who is planning to be in for the whole week.
+
 ## Honeybadger
 
 Make sure that honeybadger email notifications are turned on, and investigate when you get an email.
