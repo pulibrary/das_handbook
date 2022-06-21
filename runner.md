@@ -21,5 +21,5 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
 * Create an issue in the github repo.
 * Add the honeybadger link in the issue's description
 * Copy over the failing code block from honeybadger into the issue, not just the line numbers (since they can change)
-* In honeybadger, add a comment with the link to the github action
+* In honeybadger, add a comment with the link to the github issue
 * As you troubleshoot, add any updates as a github comment
