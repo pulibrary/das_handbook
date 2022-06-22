@@ -4,9 +4,9 @@ The runner role switches off between team members each week.  The runner should 
 
 ## Honeybadger
 
-Make sure that honeybadger email notifications are turned on, and investigate when you get an email.
+Make sure that honeybadger email notifications are turned on for the DACS team projects.  It can be helpful to [turn off honeybadger emails for projects we don't support](https://app.honeybadger.io/users/edit#digest).
 
-Also, go to the honeybadger dashboard daily and look at honeybadger activity for DACS applications.  There is typically no need to review honeybadger activity from previous weeks.
+When you get an email.  Also, go to the honeybadger dashboard daily and look at honeybadger activity for DACS applications.  There is typically no need to review honeybadger activity from previous weeks.
 
 Note: for some of the projects, the staging and qa environments are included in honeybadger.
 
