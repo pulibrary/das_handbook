@@ -2,11 +2,19 @@
 
 The runner role switches off between team members each week.  The runner should be somebody who is planning to be in for the whole week.
 
-## Honeybadger
+## Initial setup
 
-Make sure that honeybadger email notifications are turned on for the DACS team projects.  It can be helpful to [turn off honeybadger emails for projects we don't support](https://app.honeybadger.io/users/edit#digest).
+Before serving as a runner, do the following steps to get set up:
 
-When you get an email.  Also, go to the honeybadger dashboard daily and look at honeybadger activity for DACS applications.  There is typically no need to review honeybadger activity from previous weeks.
+1. Make sure that honeybadger email notifications are turned on for the DACS team projects.  It can be helpful to [turn off honeybadger emails for projects we don't support](https://app.honeybadger.io/users/edit#digest).
+1. In the honeybadger UI, open a project and search for `created.after:"7 days ago" -is:resolved -is:ignored`.
+1. Click the bookmark icon to bookmark this search.
+
+## Triaging new honeybadger errors
+
+Go to the honeybadger dashboard daily and look at honeybadger activity for DACS applications.  You can quickly review activity using the bookmarked search.  There is typically no need to review honeybadger activity from previous weeks.
+
+Also triage any new honeybadger errors that come in via email.
 
 Note: for some of the projects, the staging and qa environments are included in honeybadger.
 
