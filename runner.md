@@ -6,7 +6,7 @@ The runner role switches off between team members each week.  The runner should 
 
 Before serving as a runner, do the following steps to get set up:
 
-1. Make sure that honeybadger email notifications are turned on for the DACS team projects.  It can be helpful to [turn off honeybadger emails for projects we don't support](https://app.honeybadger.io/users/edit#digest).
+1. Make sure that honeybadger email notifications are turned on for the DACS team projects.  It can be helpful to [turn off honeybadger user notifications for projects we don't support](https://app.honeybadger.io/users/edit#notifications). Manage how often you will receive emails [digest email settings](https://app.honeybadger.io/users/edit#digest).
 1. In the honeybadger UI, open a project and search for `created.after:"7 days ago" -is:resolved -is:ignored`.
 1. Click the bookmark icon to bookmark this search.
 
