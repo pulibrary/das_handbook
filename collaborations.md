@@ -1,38 +1,76 @@
 This graph shows our team's collaborations with other teams and stakeholders:
 
 ```mermaid
-graph TB
+flowchart TB
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '25px'}}}%%
+    classDef default fill:#fff,stroke:#1d4289,color:#1d4289,stroke-width:4px;
+
     dacs((Discovery and Access))
-    dacs --- aspace-special
 
-    dacs -- Figgy integration --- catalog-dlss
-    dacs --- catalog-subject
-    dacs --- catalog-metadata
-    dacs --- catalog-special
-    dacs --- catalog-eresource
-    dacs --- catalog-patrons
+    %% Collaborators
+    access(Library Access)
+    alma(Alma managers)
+    acq(Acquisitions)
+    circulation(Circulation)
+    communications(Communications)
+    dlss(DLSS)
+    eresources(E-resources)
+    faculty(Faculty)
+    finance(Finance)
+    fpul(Friends of PUL)
+    metadata(Metadata)
+    recap(ReCAP)
+    research(Research Data)
+    resource(Resource Sharing)
+    special(Special Collections)
+    subject(Subject Librarians)
 
-    dacs --- web-subject
-    dacs --- web-special
-    dacs -- Princeton and Slavery --- web-faculty
-    dacs --- web-patrons
 
-    subgraph Aspace
-      aspace-special((Special collections))
+    %% Systems
+    subgraph Internal systems
+      alma-integrations{Alma Integrations}
+      approvals{Approvals}
     end
-    subgraph Catalog
-      catalog-dlss((DLSS))
-      catalog-special((Special collections))
-      catalog-subject((Subject specialists))
-      catalog-metadata((Metadata))
-      catalog-eresource((E-resources team))
-      catalog-patrons((Patrons))
+    subgraph Public systems
+      aspace{Aspace}
+      catalog{Catalog}
+      lockers{Lockers}
+      websites{Public Facing Websites}
     end
-    subgraph Public facing Websites
-      web-faculty((Faculty))
-      web-patrons((Patrons))
-      web-special((Special collections))
-      web-subject((Subject librarians))
-    end
+
+    %% Relationships
+    dacs-->alma-integrations
+    dacs-->approvals
+    dacs-->aspace
+    dacs-->catalog
+    dacs-->lockers
+    dacs-->websites
+    
+    alma-->alma-integrations
+    acq-->alma-integrations
+    circulation-->alma-integrations
+    finance-->alma-integrations
+
+    special-->aspace
+
+    alma-->catalog
+    circulation--Requests-->catalog
+    dlss--Figgy integration-->catalog
+    eresources-->catalog
+    metadata-->catalog
+    resource--Requests-->catalog
+    special-->catalog
+
+    access-->lockers
+
+    communications-->websites
+    faculty--Princeton and Slavery-->websites
+    fpul-->websites
+    recap-->websites
+    research-->websites
+    special-->websites
+    subject-->websites
+
 
 ```
+
