@@ -1,7 +1,7 @@
 This graph shows our team's collaborations with other teams and stakeholders:
 
 ```mermaid
-flowchart TB
+flowchart LR
 %%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '25px'}}}%%
     classDef default fill:#fff,stroke:#1d4289,color:#1d4289,stroke-width:4px;
 
@@ -19,6 +19,7 @@ flowchart TB
     finance(Finance)
     fpul(Friends of PUL)
     metadata(Metadata)
+    ops(Operations)
     recap(ReCAP)
     research(Research Data)
     resource(Resource Sharing)
@@ -28,28 +29,29 @@ flowchart TB
 
     %% Systems
     subgraph Internal systems
-      alma-integrations{Alma Integrations}
       approvals{Approvals}
+      alma-integrations{Alma Integrations}
     end
     subgraph Public systems
-      aspace{Aspace}
+      aspace{ArchivesSpace}
       catalog{Catalog}
       lockers{Lockers}
-      websites{Public Facing Websites}
+      websites{Websites}
+    end
+    subgraph IT[" "]
+      dacs
+      ops
     end
 
     %% Relationships
-    dacs-->alma-integrations
-    dacs-->approvals
-    dacs-->aspace
-    dacs-->catalog
-    dacs-->lockers
-    dacs-->websites
-    
-    alma-->alma-integrations
-    acq-->alma-integrations
-    circulation-->alma-integrations
-    finance-->alma-integrations
+    access-->lockers
+
+    lockers---IT
+    catalog---IT
+    aspace---IT
+    websites---IT
+    approvals---IT
+    alma-integrations---IT
 
     special-->aspace
 
@@ -61,7 +63,6 @@ flowchart TB
     resource--Requests-->catalog
     special-->catalog
 
-    access-->lockers
 
     communications-->websites
     faculty--Princeton and Slavery-->websites
@@ -70,6 +71,11 @@ flowchart TB
     research-->websites
     special-->websites
     subject-->websites
+    
+    alma-->alma-integrations
+    acq-->alma-integrations
+    circulation-->alma-integrations
+    finance-->alma-integrations
 
 
 ```
