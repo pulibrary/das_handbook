@@ -31,3 +31,13 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
 * Copy over the failing code block from honeybadger into the issue, not just the line numbers (since they can change)
 * In honeybadger, add a comment with the link to the github issue
 * As you troubleshoot, add any updates as a github comment
+
+## Triaging new lib-answers tickets from the Catalog feedback and Website support.
+
+* Login to lib answers using CAS https://princeton.libapps.com/libapps/login.php
+* Select the Catalog feedback or the Website support queue. 
+* Triage the unassigned tickets.
+* Filter tickets with status: 'new' or 'open'. 
+* If the ticket is a cataloging issue then tranfer it to the Cataloging queue.
+* If the ticket is an Electronic Resource issue then transfer it to the ESupport queue.
+* If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket. 
