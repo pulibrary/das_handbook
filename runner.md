@@ -40,4 +40,5 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
 * Filter tickets with status: 'new' or 'open'. 
 * If the ticket is a cataloging issue then tranfer it to the Cataloging queue.
 * If the ticket is an Electronic Resource issue then transfer it to the ESupport queue.
-* If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket. 
+* If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket.
+* If the ticket has general reference questions then transfer it to the EReference queue.
