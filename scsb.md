@@ -1,6 +1,6 @@
 ## Checking the SCSB API
 
-1. Go to the [SCSB swagger API console](https://scsb.recaplib.org:9093/swagger-ui.html)
+1. Go to the [SCSB swagger API console](https://scsb.recaplib.org:9093/swagger-ui/index.html)
 1. Press the authorize button
 1. Enter the `SCSB_AUTH_KEY` from the orangelight or bibdata app_configs
 1. Press the close button
