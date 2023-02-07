@@ -12,3 +12,14 @@ Here are some typical columns you will see on these boards:
 | Icebox | Items that are not currently a high priority |
 | Ready  | Items that are of a high priority and are ready to be worked on  |
 | Blocked | Items that are blocked |
+
+## Story points
+
+| Number of points | Meaning |
+|---|---|
+|1 point|A small amount of time|
+|2 points|1/2 day|
+|3 points|1 day|
+|5 points|2-3 days|
+|8 points|1 week|
+|13 points|Needs to be broken down into smaller tickets|
