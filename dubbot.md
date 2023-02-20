@@ -8,8 +8,7 @@
 
 ## Crawling
 
-By default, dubbot crawls the catalog every 90 days.  However, we can reach out to John Jameson or Rachel Busnardo to crawl more frequently,
-or to do an ad-hoc crawl.
+By default, dubbot crawls the catalog every 90 days.  However, we can reach out to John Jameson or Rachel Busnardo to crawl more frequently, or to do an ad-hoc crawl.
 
 If there is one specific page, we'd like to check again, we can open it in dubbot and press the "Crawl" button.  It may spin forever, but
 if you reload the page, it should show you the new results.
