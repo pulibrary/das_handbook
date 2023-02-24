@@ -18,3 +18,8 @@ You can resolve an issue, but if the issue appears on the next crawl, dubbot wil
 
 If you need more information about a particular issue, you can:
 1. Open a task, assign John and Rachel, and then type your question.
+
+## Further reading
+
+* [OIT's DubBot documentation](https://accessibility.princeton.edu/assurance/web)
+* [DubBot knowledge base](https://help.dubbot.com/en/), includes release notes
