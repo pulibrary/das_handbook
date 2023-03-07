@@ -10,7 +10,7 @@
 * [Pa11y](https://www.npmjs.com/package/pa11y)
 
 * Screen reader:   
-   * Voice over with Safari.
+   * [Voice over with Safari](voiceover_basic_testing.md).
    * ....with Chrome
    * ....with Firefox
    * NVDA or JAWS with Edge
