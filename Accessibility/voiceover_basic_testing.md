@@ -26,3 +26,4 @@ area you are testing:
 ## Further reading
 
 * [WebAIM VoiceOver accessibility evaluation guide](https://webaim.org/articles/voiceover/)
+* [VoiceOver Trackpad Commander](https://www.tempertemper.net/blog/voiceovers-trackpad-commander-on-mac) -- a way to use voiceover using the trackpad instead of keyboard shortcuts
