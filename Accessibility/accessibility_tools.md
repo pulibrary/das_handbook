@@ -12,13 +12,13 @@
 * [Color Contrast Analyzer](https://www.tpgi.com/cca-download/)
 
 * Screen reader:   
-   * [Voice over with Safari](voiceover_basic_testing.md).
-   * ....with Chrome
-   * ....with Firefox
-   * NVDA or JAWS with Edge
+   * (MacOS) [Voice over with Safari](voiceover_basic_testing.md).
+   * (Windows) NVDA or JAWS with Chrome
+   * (Windows) NVDA with Firefox
+   * (Windows) NVDA or JAWS with Edge
 * Testing with a screen reader in a mobile
-   * Android
-   * IOS
+   * Android: Talkback
+   * IOS: VoiceOver
 
 * Keyboard testing
 
