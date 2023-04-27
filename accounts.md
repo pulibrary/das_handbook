@@ -65,14 +65,15 @@ Staff clients for all three of these Atlas systems. They are accessible only via
     - https://fpul-staging.princeton.edu
 * Other Tools
     - Princeton and Slavery (craftcms application)
-    - https://slavery.princeton.edu
-    - https://slavery-staging.princeton.edu
+    - [Princeton and Slavery production](https://slavery.princeton.edu)
+    - [Princeton and Slavery staging](https://slavery-staging.princeton.edu)
 
 
 # Other External Services
 
-* Ex Libris Developers Network (One of the Alma team add you to the "Princeton" Team)
-* Datadog - monitoring and alerts https://www.datadoghq.com/ 
-* CircleCI - https://circleci.com/ access via Github Account 
-* Amazon AWS - https://princeton.edu/aws 
-* Honeybadger - https://www.honeybadger.io/
+* [Ex Libris Developers Network](https://developers.exlibrisgroup.com/) (One of the Alma team will add you to the "Princeton" Team)
+* [Datadog](https://www.datadoghq.com/) monitoring and alerts
+* [CircleCI](https://circleci.com/) access via Github Account
+* [Amazon AWS](https://princeton.edu/aws) 
+* [Honeybadger](https://www.honeybadger.io/)
+* [Dubbot](https://princeton.dubbot.com/)
