@@ -73,7 +73,6 @@ Staff clients for all three of these Atlas systems. They are accessible only via
 
 * Ex Libris Developers Network (One of the Alma team add you to the "Princeton" Team)
 * Datadog - monitoring and alerts https://www.datadoghq.com/ 
-* CiricleCI - https://circleci.com/ access via Github Account 
-* Amazaon AWS - https://princeton.edu/aws 
+* CircleCI - https://circleci.com/ access via Github Account 
+* Amazon AWS - https://princeton.edu/aws 
 * Honeybadger - https://www.honeybadger.io/
-* Sensu - https://lib-monitor.princeton.edu/dashboard 
