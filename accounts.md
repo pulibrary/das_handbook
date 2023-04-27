@@ -77,3 +77,5 @@ Staff clients for all three of these Atlas systems. They are accessible only via
 * [Amazon AWS](https://princeton.edu/aws) 
 * [Honeybadger](https://www.honeybadger.io/)
 * [Dubbot](https://princeton.dubbot.com/)
+* [Ansible Tower](https://ansible-tower.princeton.edu/)   
+   * Contact the Ops team to add their IDs to the active directory group ("magic group") for Tower access.  
