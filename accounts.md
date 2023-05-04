@@ -7,25 +7,25 @@ All developers need a github profile handle with a public key to push and pull c
 
 # Princeton SSO Account (i.e. DUO, Your University Account, the netid account)
 * University Email (Set-up via Campus HR Onboarding)
-* VPN, aka Secure Remote Access (GlobalProtect Client Preferred)
-* Google Drive (follow instructions at https://princeton.service-now.com/service/kb_search.do?id=1111)
-* Libanswers https://princeton.libapps.com/ (Patron facing tickets) - Kevin can grant access
-* SN@P (Staff facing tickets) - Request access from Tracy Hall in Operations
+* VPN (GlobalProtect Client) -- [procedure here under "Installing GlobalProtect Software"](https://workcontinuity.princeton.edu/remoteaccess)
+* Google Drive (student developers already have an account; staff should [follow these instructions](https://princeton.service-now.com/service/kb_search.do?id=1111))
+* Libanswers https://princeton.libapps.com/ (Patron facing tickets) - Kevin can grant access (student developers can skip this)
+* SN@P (Staff facing tickets) - Request access from Tracy Hall in Operations (student developers can skip this)
 * Approvals (Library Travel Requests) - account created automatically
-* Lastpass (need to be added to various Shared ITIMS folders once an account exists - https://informationsecurity.princeton.edu/LastPass) 
+* Lastpass (need to be added to various Shared ITIMS folders once an account exists - https://informationsecurity.princeton.edu/LastPass)
 
 # Externally Hosted Catalog Related Applications
-* Alma
+* Alma (ask the Alma managers in the #alma-dacs channel.  Students can skip this until they need to work on a ticket that involves alma)
     - Alma Prod - https://princeton.alma.exlibrisgroup.com/SAML
     - Alma Sandbox - https://princeton-psb.alma.exlibrisgroup.com/SAML
 * SCSB (ReCAP Middleware)
     - Prod https://scsb.recaplib.org/
     - https://uat-recap.htcinc.com.htcinc.com 
-* POD (Platform for Open Data) https://pod.stanford.edu/
+* POD (Platform for Open Data) https://pod.stanford.edu/ (Kevin or Esmé can create an account for you. Students can skip this until they need to work on a ticket that involves POD.)
 
 # Atlas Systems Applications
 
-Staff clients for all three of these Atlas systems. They are accessible only via Windows Remote Desktop when connected to following designated machines lib-ares-cli1, lib-ares-cli2. An account for a dev will need to be created manually in each of the three systems. 
+Staff clients for all three of these Atlas systems. They are accessible only via Windows Remote Desktop when connected to following designated machines lib-ares-cli1, lib-ares-cli2. An account for a dev will need to be created manually in each of the three systems. Students can skip this.
 * Aeon (Special Collections Reading Room Management - Hosted Locally)
     - Public web app https://lib-aeon.princeton.edu/aeon/
 * ILLiad (InterLibrary Loan - Hosted Locally)
@@ -34,36 +34,62 @@ Staff clients for all three of these Atlas systems. They are accessible only via
     - Web Application is embedded in campus Canvas LMS
 
 # Locally Hosted Applications with Staff Accounts
-* Ruby on Rails Applications
-    - Lockers and Study Spaces
-    - https://lockers-and-study-spaces.princeton.edu
-    - https://lockers-and-study-spaces-staging.princeton.edu
-    - DSS
-    - https://dss.princeton.edu/catalog
-    - https://dss-staging.princeton.edu/catalog
-    - Repec
-    - https:/repec-prod.princeton.edu/
-* Drupal Websites
-    - Library Main Website
-    - https://library.princeton.edu
-    - https://library-staging.princeton.edu
-    - Special Collections Department Website
-    - http://library.princeton.edu/special-collections
-    - http://library-staging.princeton.edu/special-collections
-    - Research Data Service Website
-    - https://researchdata.princeton.edu
-    - https://researchdata-staging.princeton.edu
-    - ReCAP Facility Website
-    - https://recap.princeton.edu
-    - https://recap-staging.princeton.edu
-    - Friends of the Princeton Library Website
-    - https://fpul.princeton.edu
-    - https://fpul-staging.princeton.edu
-* Other Tools
-    - Princeton and Slavery (craftcms application)
-    - [Princeton and Slavery production](https://slavery.princeton.edu)
-    - [Princeton and Slavery staging](https://slavery-staging.princeton.edu)
 
+## Ruby on Rails Applications
+
+### Lockers and Study Spaces
+
+- [Lockers production](https://lockers-and-study-spaces.princeton.edu)
+- [Lockers staging](https://lockers-and-study-spaces-staging.princeton.edu)
+
+### DSS
+- [DSS production](https://dss.princeton.edu/catalog)
+- [DSS staging](https://dss-staging.princeton.edu/catalog)
+
+### Repec
+
+- [Repec production](https:/repec-prod.princeton.edu/)
+
+## Drupal Websites
+
+To add a new developer to a drupal site, a current team member
+who is an admin can follow these steps:
+
+1. Go to '/user'
+2. Log in
+3. Go to 'People'
+4. Select 'Add CAS user(s)'
+5. Add the netid
+6. Press 'Create new account'
+7. Edit the new user to have the 'administrator' role.    
+
+### Library Main Website
+
+- [Library website production](https://library.princeton.edu)
+- [Library website staging](https://library-staging.princeton.edu)
+
+### Special Collections Department Website
+- [Special collections production](http://library.princeton.edu/special-collections)
+- [Special collections staging](http://library-staging.princeton.edu/special-collections)
+
+### Research Data Service Website
+- [RDSS production](https://researchdata.princeton.edu)
+- [RDSS production](https://researchdata-staging.princeton.edu)
+
+
+### ReCAP Facility Website
+- [ReCAP production ](https://recap.princeton.edu)
+- [ReCAP staging](https://recap-staging.princeton.edu)
+
+### Friends of the Princeton Library Website
+- [Friends production](https://fpul.princeton.edu)
+- [Friends staging](https://fpul-staging.princeton.edu)
+
+## Php applications
+
+### Princeton and Slavery (craftcms application)
+- [Princeton and Slavery production](https://slavery.princeton.edu)
+- [Princeton and Slavery staging](https://slavery-staging.princeton.edu)
 
 # Other External Services
 
