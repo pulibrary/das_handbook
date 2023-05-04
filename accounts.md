@@ -5,10 +5,6 @@ our operations.
 
 All developers need a github profile handle with a public key to push and pull code to our two Princeton github communities. SSH Access to all servers is also through the use of this public key. 
 
-# Pulbot
-
-Pulbot is used deploy applications via a slack channel integration. The slack channel is the private channel "robots". You need to add a PR to the pulbot github repo in this fashion to add a new user: https://github.com/pulibrary/pulbot/pull/108/files. The unique ID is the slack member ID for the accoount that is being attached to the bot. 
-
 # Princeton SSO Account (i.e. DUO, Your University Account, the netid account)
 * University Email (Set-up via Campus HR Onboarding)
 * VPN, aka Secure Remote Access (GlobalProtect Client Preferred)
