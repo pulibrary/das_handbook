@@ -16,7 +16,7 @@ assignees: ''
 - [ ] [Discovery and Access Services google drive](https://drive.google.com/drive/folders/1rSAXeVtSKQ_uvo1P7OFMvECNwoKZlsS_)
 - [ ] Become familiar with [confluence](https://lib-confluence.princeton.edu/)
 - [ ] [Accessibility syllabus](https://docs.google.com/document/d/1_xREyfTrQnPgSLVLK8bmp-pNwj4t88noyQXJfJvEo3c/edit)
-- [ ] [Deploying code](https://docs.google.com/document/d/14-z3v_vUMLTAVw-g1OlSfqCicQb2BKd9q3RYQqoi4z4/edit) from [Ansible Tower](https://ansible-tower.princeton.edu/)
+- [ ] [Deploying code](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md) from [Ansible Tower](https://ansible-tower.princeton.edu/)
 - [ ] Remember to ask questions 😀
  
 
