@@ -13,7 +13,7 @@ flowchart LR
     acq(Acquisitions)
     circulation(Circulation)
     communications(Communications)
-    dlss(DLSS)
+    dls(DLS)
     eresources(E-resources)
     faculty(Faculty)
     finance(Finance)
@@ -57,7 +57,7 @@ flowchart LR
 
     alma-->catalog
     circulation--Requests-->catalog
-    dlss--Figgy integration-->catalog
+    dls--Figgy integration-->catalog
     eresources-->catalog
     metadata-->catalog
     resource--Requests-->catalog
