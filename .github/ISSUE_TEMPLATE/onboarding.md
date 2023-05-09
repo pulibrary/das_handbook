@@ -17,6 +17,7 @@ assignees: ''
 - [ ] Become familiar with [confluence](https://lib-confluence.princeton.edu/)
 - [ ] [Accessibility syllabus](https://docs.google.com/document/d/1_xREyfTrQnPgSLVLK8bmp-pNwj4t88noyQXJfJvEo3c/edit)
 - [ ] [Deploying code](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md) from [Ansible Tower](https://ansible-tower.princeton.edu/)
+- [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
 - [ ] Remember to ask questions 😀
  
 
