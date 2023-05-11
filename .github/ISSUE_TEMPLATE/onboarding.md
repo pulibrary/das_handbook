@@ -9,6 +9,9 @@ assignees: ''
 
 # Everybody
 
+- [ ] Set up your work computer
+    - [ ] [tips for setting up a new mac](https://github.com/pulibrary/pul-it-handbook/blob/main/services/new_mac_setup.md)
+    - [ ] [tools that we use on our team](https://github.com/pulibrary/dacs_handbook/blob/main/tools.md)
 - [ ] Create an SSH key if you don't already have one (`ssh-keygen -t ed25519 -a 100`)
 - [ ] Add your SSH key to [the deploy_user role](https://github.com/pulibrary/princeton_ansible/blob/main/group_vars/all/vars.yml)
 - [ ] [Get all needed accounts](https://github.com/pulibrary/dacs_handbook/blob/main/accounts.md) 
