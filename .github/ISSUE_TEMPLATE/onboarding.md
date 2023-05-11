@@ -18,6 +18,11 @@ assignees: ''
 - [ ] [Accessibility syllabus](https://docs.google.com/document/d/1_xREyfTrQnPgSLVLK8bmp-pNwj4t88noyQXJfJvEo3c/edit)
 - [ ] [Deploying code](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md) from [Ansible Tower](https://ansible-tower.princeton.edu/)
 - [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
+- [ ] Make sure you have invitations to all the following meeting:
+    - [ ] Team standups, retrospectives, and wrap-up meetings (ask Kevin)
+    - [ ] Ansible open house (ask Alicia)
+    - [ ] Cross-ITIMS (ask Trey)
+    - [ ] Orangelight/Bibdata (ask Christina)
 - [ ] Remember to ask questions 😀
  
 
