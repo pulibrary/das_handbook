@@ -1,5 +1,8 @@
-You can find PRs that are awaiting code review in several ways:
-* [Look at the review column on the Catalog board](https://app.zenhub.com/workspaces/orangelightbibdatarequests-571691cab409d8d821b873be/board?repos=21954918,29558978,47136789)
-* [Look at the review column on the User Services board](https://app.zenhub.com/workspaces/user-services-5da0db919c4ddf0001b2eb92/board?repos=5308659,32608236,62346736)
-* [Search Github](https://github.com/search?q=repo%3Apulibrary%2Ffirestone_locator+repo%3Apulibrary%2Flockers_and_study_spaces+repo%3Apulibrary%2Frepecwp+repo%3Apulibrary%2Fmudd-dbs+repo%3Apulibrary%2Fdiscoveryutils+repo%3Apulibrary%2Frecap+repo%3Apulibrary%2Fbibdata+repo%3Apulibrary%2Fspecial_collections+repo%3Apulibrary%2Ffriends_of_pul+repo%3Apulibrary%2Fresearchdata+repo%3Apulibrary%2FDSS+repo%3Apulibrary%2Frequests+repo%3Apulibrary%2Flib_jobs+repo%3Apulibrary%2Fbyzantine_translations+repo%3Apulibrary%2Fpul_library_drupal+repo%3Apulibrary%2Fapprovals+repo%3Apulibrary%2Fgeaccirc+repo%3Apulibrary%2Forangelight+repo%3Apulibrary%2Faspace_helpers+repo%3APrincetonUniversityLibrary%2Fpas-craft3+draft%3Afalse+state%3Aopen+-label%3Adependencies+review%3Arequired&type=Issues)
-* Check [princeton_ansible](https://github.com/pulibrary/princeton_ansible/pulls) for PRs that are relevant to our portfolio
+
+Pull Requests (PR) are the means by developers propose changes to a project's code.
+
+* All code changes should be introduced via Github's pull request mechanism. If you want the review of a particular team member please tag them when creating the PR.
+* The default branch PRs are created against is a project's "main" git branch. 
+* Pull Requests can be created in "Draft" or "Ready for Review". Use Draft if you would like a team member's input but do not think the code is ready for addition to the main branch of a project. Mark the PR as "Ready for Review" when you believe it is ready for to be merged into the main branch. 
+* A team member should not merge a pull request they've submitted until another team member has approved it. 
+* You can find PRs in the Review/QA column of our [Zenhub Board](https://app.zenhub.com/workspaces/feature-work-cycle-board-571691cab409d8d821b873be/board)
