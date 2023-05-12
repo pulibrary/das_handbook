@@ -19,10 +19,11 @@ assignees: ''
 - [ ] [Deploying code](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md) from [Ansible Tower](https://ansible-tower.princeton.edu/)
 - [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
 - [ ] Make sure you have invitations to all the following meeting:
-    - [ ] Team standups, retrospectives, and wrap-up meetings (ask Kevin)
-    - [ ] Ansible open house (ask Alicia)
-    - [ ] Cross-ITIMS (ask Trey)
-    - [ ] Orangelight/Bibdata (ask Christina)
+    - [ ] Team standups, retrospectives, and wrap-up meetings (ask [@kevinreiss](https://github.com/kevinreiss))
+    - [ ] Ansible open house (ask [@acozine](https://github.com/acozine))
+    - [ ] Cross-ITIMS (ask [@tpendragon](https://github.com/tpendragon))
+    - [ ] Orangelight/Bibdata (ask [@christinach](https://github.com/christinach))
+    - [ ] Orangelight issues - Cleanup (ask [@christinach](https://github.com/christinach))
 - [ ] Remember to ask questions 😀
  
 
