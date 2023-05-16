@@ -7,13 +7,8 @@ You can find dependabot PRs by checking [github](https://github.com/search?q=rep
 to `main`.  If there have been commits since dependabot made
 its PR, trigger a rebase by commenting ``@dependabot rebase``
 1. Copy the name of the dependabot branch.
-1. In the #robots channel on slack, deploy the dependabot branch
-to staging or qa.
-    * If it needed to rebase, CI may not have finished yet, so 
-    you might have to use `pulbot deploy!` if the
-    typical `pulbot deploy` command doesn't work.
-    * You can find a list of pulbot's configured apps and
-    environments at https://github.com/pulibrary/pulbot/blob/main/apps.json
+1. Using [Ansible Tower](https://ansible-tower.princeton.edu/),
+[deploy the branch](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md) to staging or qa.
 1. After the branch is deployed, test the application to make
 sure all is well.
 1. If everything looks good, approve the PR and merge it.
