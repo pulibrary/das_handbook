@@ -21,11 +21,20 @@ assignees: ''
 - [ ] [Accessibility syllabus](https://docs.google.com/document/d/1_xREyfTrQnPgSLVLK8bmp-pNwj4t88noyQXJfJvEo3c/edit)
 - [ ] [Deploying code](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md) from [Ansible Tower](https://ansible-tower.princeton.edu/)
 - [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
+- [ ] Test-driven development is a popular approach on our team.  [The basics of RSpec and TDD are covered in the PUL IT Handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/training-curriculum/ruby-rspec.md).
+- [ ] The security repo
 - [ ] Remember to ask questions 😀
+
+## Monitoring
+
+- [ ] [Honeybadger](https://app.honeybadger.io/projects)
+- [ ] [Datadog](https://app.datadoghq.com/logs)
+- [ ] In progress: Sensu
  
 
 # Non students  
 - [ ] [Princeton University Human Resources](https://hr.princeton.edu/)
+- [ ] [Runner role](https://github.com/pulibrary/dacs_handbook/blob/main/runner.md)
 
 
 # Student developers

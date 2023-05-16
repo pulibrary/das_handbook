@@ -18,11 +18,32 @@ Also triage any new honeybadger errors that come in via email.
 
 Note: for some of the projects, the staging and qa environments are included in honeybadger.
 
-### Errors that need immediate attention
+### General categories of errors
+
+#### Errors that need immediate attention
 
 Notify the rest of the team on slack.
 
-### All other errors
+#### Small disruptions in database or solr connectivity
+
+This category includes temporary disconnections from postgres (which might display as `ActiveRecord`) or solr (which might display as `RSolr`).  As long as these seem temporary and small in impact, it's generally okay to resolve these.
+
+#### Errors caused by developers
+
+This category includes:
+
+* `SIGHUP` exceptions (from closing your console in certain ways while SSHed into a box)
+* mistyped rake commands
+
+It's fine to resolve or ignore these.
+
+
+#### Potential attack probes
+
+* If the attack probe illustrates a potential vulnerability, create a ticket (if it needs to be private, use the security repo)
+* If it is just a naive, run-of-the-mill attack probe, make a ticket in [princeton_ansible](https://github.com/pulibrary/princeton_ansible) so that they can incorporate it into the WAF.
+
+#### All other errors
 
 Don't use the "Create Issue" button in honeybadger, since the history can be purged in honeybadger and we can miss important context.  Instead, follow these steps:
 
