@@ -23,6 +23,8 @@ assignees: ''
     - [ ] [Procedure in PUL IT handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md)
     - [ ] [Team-specific instructions in our handbook](https://github.com/pulibrary/dacs_handbook/blob/main/deploying-code.md)
 - [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
+- [ ] Test-driven development is a popular approach on our team.  [The basics of RSpec and TDD are covered in the PUL IT Handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/training-curriculum/ruby-rspec.md).
+- [ ] The security repo
 - [ ] Make sure you have invitations to all the following meeting:
     - [ ] Team standups, retrospectives, and wrap-up meetings (ask [@kevinreiss](https://github.com/kevinreiss))
     - [ ] Ansible open house (ask [@acozine](https://github.com/acozine))
@@ -30,10 +32,17 @@ assignees: ''
     - [ ] Orangelight/Bibdata (ask [@christinach](https://github.com/christinach))
     - [ ] Orangelight issues - Cleanup (ask [@christinach](https://github.com/christinach))
 - [ ] Remember to ask questions 😀
+
+## Monitoring
+
+- [ ] [Honeybadger](https://app.honeybadger.io/projects)
+- [ ] [Datadog](https://app.datadoghq.com/logs)
+- [ ] In progress: Sensu
  
 
 # Non students  
 - [ ] [Princeton University Human Resources](https://hr.princeton.edu/)
+- [ ] [Runner role](https://github.com/pulibrary/dacs_handbook/blob/main/runner.md)
 
 
 # Student developers
