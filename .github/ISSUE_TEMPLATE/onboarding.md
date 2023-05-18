@@ -23,6 +23,12 @@ assignees: ''
     - [ ] [Procedure in PUL IT handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md)
     - [ ] [Team-specific instructions in our handbook](https://github.com/pulibrary/dacs_handbook/blob/main/deploying-code.md)
 - [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
+- [ ] Make sure you have invitations to all the following meeting:
+    - [ ] Team standups, retrospectives, and wrap-up meetings (ask [@kevinreiss](https://github.com/kevinreiss))
+    - [ ] Ansible open house (ask [@acozine](https://github.com/acozine))
+    - [ ] Cross-ITIMS (ask [@tpendragon](https://github.com/tpendragon))
+    - [ ] Orangelight/Bibdata (ask [@christinach](https://github.com/christinach))
+    - [ ] Orangelight issues - Cleanup (ask [@christinach](https://github.com/christinach))
 - [ ] Remember to ask questions 😀
  
 
