@@ -16,6 +16,11 @@ assignees: ''
 - [ ] Add your SSH key to [the deploy_user role](https://github.com/pulibrary/princeton_ansible/blob/main/group_vars/all/vars.yml)
 - [ ] [Get all needed accounts](https://github.com/pulibrary/dacs_handbook/blob/main/accounts.md) 
 - [ ] [PUL IT handbook](https://github.com/pulibrary/pul-it-handbook)
+    - [ ] Read [our norms around inclusive language](https://github.com/pulibrary/pul-it-handbook/blob/main/norms/inclusive_language.md)
+    - [ ] The [services directory](https://github.com/pulibrary/pul-it-handbook/tree/main/services) is where we keep cross-team technical documentation that doesn't live anywhere else.  You don't have to read these all now, just get a sense for what/where this documentation is. 
+- [ ] [DACS work cycles](https://github.com/pulibrary/dacs_handbook/blob/main/work-cycles.md)
+    - [ ] [Github issues and how we label them](https://github.com/pulibrary/dacs_handbook/blob/main/issues-and-labels.md)
+    - [ ] [Our board](https://github.com/pulibrary/dacs_handbook/blob/main/board.md)
 - [ ] [Discovery and Access Services google drive](https://drive.google.com/drive/folders/1rSAXeVtSKQ_uvo1P7OFMvECNwoKZlsS_)
 - [ ] Become familiar with [confluence](https://lib-confluence.princeton.edu/)
 - [ ] [Accessibility syllabus](https://docs.google.com/document/d/1_xREyfTrQnPgSLVLK8bmp-pNwj4t88noyQXJfJvEo3c/edit)
@@ -25,12 +30,14 @@ assignees: ''
 - [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
 - [ ] Test-driven development is a popular approach on our team.  [The basics of RSpec and TDD are covered in the PUL IT Handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/training-curriculum/ruby-rspec.md).
 - [ ] The security repo
+- [ ] [Team meeting structure](https://github.com/pulibrary/dacs_handbook/blob/main/meetings.md)
 - [ ] Make sure you have invitations to all the following meeting:
     - [ ] Team standups, retrospectives, and wrap-up meetings (ask [@kevinreiss](https://github.com/kevinreiss))
     - [ ] Ansible open house (ask [@acozine](https://github.com/acozine))
     - [ ] Cross-ITIMS (ask [@tpendragon](https://github.com/tpendragon))
     - [ ] Orangelight/Bibdata (ask [@christinach](https://github.com/christinach))
     - [ ] Orangelight issues - Cleanup (ask [@christinach](https://github.com/christinach))
+- [ ] Browse the [DACS handbook](https://github.com/pulibrary/dacs_handbook).  You don't need to read it all now, just get a sense for what documentation it contains.
 - [ ] Remember to ask questions 😀
 
 ## Monitoring
