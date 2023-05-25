@@ -1,6 +1,7 @@
 # Testing a page using VoiceOver
 
-1. Use Safari, rather than Firefox or Chrome.  The combination
+1. Open the page you'd like to test in Safari, rather
+than Firefox or Chrome.  The combination
 of VoiceOver and Firefox, in particular, can be buggy.
 1. Turn on Voiceover.  There are several ways to do this:
    1. Press Command + F5, or
