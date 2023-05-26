@@ -30,6 +30,7 @@ assignees: ''
 - [ ] Add your name and github email to [the shared .gitmessage](https://github.com/pulibrary/pul-it-handbook/blob/main/gitmessage.md)
 - [ ] Test-driven development is a popular approach on our team.  [The basics of RSpec and TDD are covered in the PUL IT Handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/training-curriculum/ruby-rspec.md).
 - [ ] The security repo
+- [ ] Learn [how to handle incidents](https://github.com/pulibrary/dacs_handbook/blob/main/incidents.md)
 - [ ] [Team meeting structure](https://github.com/pulibrary/dacs_handbook/blob/main/meetings.md)
 - [ ] Make sure you have invitations to all the following meeting:
     - [ ] Team standups, retrospectives, and wrap-up meetings (ask [@kevinreiss](https://github.com/kevinreiss))
