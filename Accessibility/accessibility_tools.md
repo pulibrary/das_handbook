@@ -11,6 +11,8 @@
 
 * [Color Contrast Analyzer](https://www.tpgi.com/cca-download/)
 
+* [Windows High Contrast Mode](windows_high_contrast_mode.md).
+
 * Screen reader:   
    * (MacOS) [Voice over with Safari](voiceover_basic_testing.md).
    * (Windows) NVDA or JAWS with Chrome
