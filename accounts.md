@@ -48,7 +48,7 @@ Staff clients for all three of these Atlas systems. They are accessible only via
 
 ### Repec
 
-- [Repec production](https:/repec-prod.princeton.edu/)
+- [Repec production](https://repec-prod.princeton.edu/).  You can SSH into the server and use the [rails console steps in the README](https://github.com/pulibrary/repecwp/) to add a new user.
 
 ## Drupal Websites
 
@@ -94,10 +94,10 @@ who is an admin can follow these steps:
 # Other External Services
 
 * [Ex Libris Developers Network](https://developers.exlibrisgroup.com/) (One of the Alma team will add you to the "Princeton" Team)
-* [Datadog](https://www.datadoghq.com/) monitoring and alerts
-* [CircleCI](https://circleci.com/) access via Github Account
-* [Amazon AWS](https://princeton.edu/aws) 
-* [Honeybadger](https://www.honeybadger.io/)
-* [Dubbot](https://princeton.dubbot.com/)
+* [Datadog](https://www.datadoghq.com/) monitoring and alerts.  Another team member can invite you.
+* [CircleCI](https://circleci.com/) access via Github Account.  You will have access automatically when you are added to the pulibrary github organization.
+* [Amazon AWS](https://princeton.edu/aws).  Francis can add you.
+* [Honeybadger](https://www.honeybadger.io/). Another team member can invite you.
+* [Dubbot](https://princeton.dubbot.com/).
 * [Ansible Tower](https://ansible-tower.princeton.edu/)   
    * Contact the Ops team to add their IDs to the active directory group for Tower access.  
