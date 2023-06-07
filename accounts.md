@@ -19,8 +19,8 @@ All developers need a github profile handle with a public key to push and pull c
     - Alma Prod - https://princeton.alma.exlibrisgroup.com/SAML
     - Alma Sandbox - https://princeton-psb.alma.exlibrisgroup.com/SAML
 * SCSB (ReCAP Middleware)
-    - Prod https://scsb.recaplib.org/
-    - https://uat-recap.htcinc.com.htcinc.com 
+    - Production: https://scsb.recaplib.org/
+    - Staging: https://uat-recap.htcinc.com 
 * POD (Platform for Open Data) https://pod.stanford.edu/ (Kevin or Esmé can create an account for you. Students can skip this until they need to work on a ticket that involves POD.)
 
 # Atlas Systems Applications
