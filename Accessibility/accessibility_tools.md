@@ -9,7 +9,7 @@
 
 * [Pa11y](https://www.npmjs.com/package/pa11y)
 
-* [Color Contrast Analyzer](https://www.tpgi.com/cca-download/)
+* [Color Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/)
 
 * [Windows High Contrast Mode](windows_high_contrast_mode.md).
 
