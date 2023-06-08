@@ -6,8 +6,8 @@
 4. Follow the [WebAIM evaluation guide](https://webaim.org/articles/evaluationguide/).  Note any issues in your detailed report spreadsheet.
 5. [Test the page(s) or feature(s) with VoiceOver](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/voiceover_basic_testing.md).  Note any issues in your detailed report spreadsheet.
 6. As needed: test the site with [other evaluation tools](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/accessibility_tools.md).  Note any issues in your detailed report spreadsheet.
-6. Confirm each row in your detailed report spreadsheet.
-7. Fill in any applicable information to your detailed report spreadsheet.
+6. For each observation that you've noted in your spreadsheet, confirm that it is an actual accessibility issue (not user error, browser misconfiguration, etc.).
+7. For each row in your detailed report spreadsheet, fill in any applicable columns.
 8. If presenting a formal report:
     1. Create a new document with the same sections as the [WCAG-EM report template](https://www.w3.org/WAI/test-evaluate/report-template/).  See [this Orangelight accessibility audit report](https://docs.google.com/document/d/1EFV8OB5gZ8l3YXSs_badUVX8DT-SNLS_vcEF0mpZkeY/edit) as an example.
     2. Include your detailed report spreadsheet as an appendix to your report document.
