@@ -22,7 +22,7 @@ assignees: ''
     - [ ] [Our board](https://github.com/pulibrary/dacs_handbook/blob/main/board.md)
 - [ ] [Discovery and Access Services google drive](https://drive.google.com/drive/folders/1rSAXeVtSKQ_uvo1P7OFMvECNwoKZlsS_)
 - [ ] Become familiar with [confluence](https://lib-confluence.princeton.edu/)
-- [ ] [Accessibility syllabus](https://docs.google.com/document/d/1_xREyfTrQnPgSLVLK8bmp-pNwj4t88noyQXJfJvEo3c/edit)
+- [ ] [Accessibility syllabus](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/accessibility_syllabus.md)
 - [ ] Deploying code with [Ansible Tower](https://ansible-tower.princeton.edu/)
     - [ ] [Procedure in PUL IT handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md)
     - [ ] [Team-specific instructions in our handbook](https://github.com/pulibrary/dacs_handbook/blob/main/deploying-code.md)
