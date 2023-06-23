@@ -3,9 +3,10 @@
 1. Define the scope of the audit.
 2. On Google Drive, [create a copy of the Accessibility audit detailed report template](https://docs.google.com/spreadsheets/d/1xTNkQI-rHp0LzyjtBDRGtHFNdyG454BihGmjl71N2bA/copy).
 3. Start taking notes on your observations into your detailed report spreadsheet.
-4. Follow the [WebAIM evaluation guide](https://webaim.org/articles/evaluationguide/).  Note any issues in your detailed report spreadsheet.
-5. [Test the page(s) or feature(s) with VoiceOver](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/voiceover_basic_testing.md).  Note any issues in your detailed report spreadsheet.
-6. As needed: test the site with [other evaluation tools](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/accessibility_tools.md).  Note any issues in your detailed report spreadsheet.
+    * If the same feature fails multiple success criteria, list each failure in its each row.
+5. Follow the [WebAIM evaluation guide](https://webaim.org/articles/evaluationguide/).  Note any issues in your detailed report spreadsheet.
+6. [Test the page(s) or feature(s) with VoiceOver](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/voiceover_basic_testing.md).  Note any issues in your detailed report spreadsheet.
+7. As needed: test the site with [other evaluation tools](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/accessibility_tools.md).  Note any issues in your detailed report spreadsheet.
 6. For each observation that you've noted in your spreadsheet, confirm that it is an actual accessibility issue (not user error, browser misconfiguration, etc.).
 7. For each row in your detailed report spreadsheet, fill in any applicable columns.
 8. If presenting a formal report:
