@@ -58,8 +58,10 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
 * Login to lib answers using CAS https://princeton.libapps.com/libapps/login.php
 * Select the Catalog feedback or the Website support queue. 
 * Triage the unassigned tickets.
-* Filter tickets with status: 'new' or 'open'. 
-* If the ticket is a cataloging issue then tranfer it to the Cataloging queue.
-* If the ticket is an Electronic Resource issue then transfer it to the ESupport queue.
+* Filter tickets with status: 'new' or 'open'.
+* Transfer the ticket if needed:
+  * If the ticket is a cataloging issue then tranfer it to the Cataloging queue.
+  * If the ticket is an Electronic Resource issue then transfer it to the ESupport queue.
+  * If the ticket has general reference questions then transfer it to the EReference queue.
+  * If the ticket is a request to reset an aeon password, transfer it to Sara Logue.
 * If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket.
-* If the ticket has general reference questions then transfer it to the EReference queue.
