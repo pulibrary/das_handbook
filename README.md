@@ -5,7 +5,7 @@ The team is responsible for the discovery systems, web sites, business applicati
 
 The team collaborates closely with the three staff members who manage our Alma platform to support the integrations (indexing, availability, requesting) within the Library Catalog, as well as supporting the code that facilitates the movement data in and out of Alma related to patron and financial information.
 
-The team collaborates closely with the DevOps team. 
+The team collaborates closely with the Ops team. 
 
 ## Technology
 The team works on many applications utilizing Ruby, Rails, Drupal, Solr, and some legacy applications that we are working to phase out. We have been developing any new applications in Ruby or Rails. We also utilize Ansible for spinning up our infrastructure.
