@@ -11,7 +11,7 @@
 * At the end of a maint. work cycle discuss any open issues that should be
   flagged for the next maint. cycle. Agree on the initial focus for Monday
 morning of the next feature week. 
-* The operations DevOps team is a standing guest to these meetings.
+* The operations Ops team is a standing guest to these meetings.
 * At the end of a feature cycle, we may also invite stakeholders so that we can
   demonstrate the work that they have sponsored.
 
