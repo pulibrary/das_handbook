@@ -7,10 +7,14 @@ Here are descriptions of some of the columns on the board:
 | Column | Meaning  |
 |---|---|
 | New Issues | Items that have not yet been triaged |
-| Icebox | Items that are not currently a high priority |
+| Icebox | Items that are not currently a high priority and are not actively being considered for a future work cycle |
+| Backlog | Items that are designated for a future work cycle but are not an immediate priority |  
 | UI/UX | UI items that aren't part of typical work cycles |
+| Next Work Cycle | Priority items that are to be included in the upcoming work cycle |
 | Ready  | Items that are of a high priority and are ready to be worked on  |
-| Maintenance | A deprecated column. We're planning to gradually move these items into other columns |
+| Stakeholder Review | Items that are blocked awaiting from feedback from colleagues who are not on the DACS team | 
+| Review/QA | Issues typically attached to a pull requests that need review or other input from DACS team members before they can be closed |
+
 
 ## Story points
 
