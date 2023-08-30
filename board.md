@@ -18,6 +18,8 @@ Here are descriptions of some of the columns on the board:
 
 ## Story points
 
+When using Epic tickets do not actually assign points to the ticket itself, Epics are the sum of the points of their assigned individual tickets. 
+
 | Number of points | Meaning |
 |---|---|
 |1 point|A small amount of time|
