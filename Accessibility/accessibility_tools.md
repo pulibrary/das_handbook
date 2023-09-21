@@ -31,3 +31,6 @@ for use in a contrast checker.
 * (Windows) NVDA or JAWS with Edge
 * Mobile -- Android: Talkback
 * Mobile -- IOS: VoiceOver
+
+#### Markup validator
+* [W3C Markup Validator service](https://validator.w3.org/)
