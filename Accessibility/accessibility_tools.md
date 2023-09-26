@@ -16,12 +16,13 @@
 
 #### Color contrast
 
-* [Color Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/)
+* [TPGi Color contrast analyzer](https://www.tpgi.com/color-contrast-checker/)
 * [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
 * [rgba to rgb converter](http://marcodiiga.github.io/rgba-to-rgb-conversion) -- most contrast checkers don't account
 for transparency, so you can use this tool to convert an rgba
 value and its background color into a single rgb or hex value
 for use in a contrast checker.
+* [Deque color contrast analyzer](https://dequeuniversity.com/color-contrast)
 
 #### Screen readers
 
