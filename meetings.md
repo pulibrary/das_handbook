@@ -1,23 +1,17 @@
 # Daily 15 Minute Stand-up
 
-* Round Robin update on issues
-* Tag the next person
-* Save longer quetions for the end
+* Pre-populate [agenda](https://docs.google.com/document/d/1O7f8rXTDRKALfB7PoTcgI3hjI4qSIUz80Y6I0Qejjds/edit#heading=h.z5sim3civsuz) with items that require form discussion. 
+* Review the team [Zenhub Board](https://app.zenhub.com/workspaces/dacs-work-cycle-board-571691cab409d8d821b873be/board)
+* 
 
-# Weekly Friday afternoon Wrap-Up
-
-* At the end of a "feature" work cycle have a brief retrospective followed by
-  agreeing on which board to prioritize for the next maint. cycle.
-* At the end of a maint. work cycle discuss any open issues that should be
-  flagged for the next maint. cycle. Agree on the initial focus for Monday
-morning of the next feature week. 
-* The operations Ops team is a standing guest to these meetings.
-* At the end of a feature cycle, we may also invite stakeholders so that we can
-  demonstrate the work that they have sponsored.
-
-# Monday Work Cycle kick-off 
-* Hold at the start of every work cycle. Pre-populate agenda with
+# Tuesday Work Cycle Planning/Ticket Backlog Refinement
+* Hold at the start of every weekly work cycle. Pre-populate agenda with
   items for longer form discussion. 
 * Longer meeting to prioritize, discuss, and assign tickets for the work cycle.
 * We also discuss which stakeholders we might want to invite to a demo, to be
   held at the end of the work cycle.
+
+# Ad Hoc Meetings
+
+* Provide a buffer btw the next half hourly increment and the meeting being scheduled
+* Generally meetings will be 25 or 50 minutes.
