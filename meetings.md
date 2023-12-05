@@ -13,5 +13,5 @@
 
 # Ad Hoc Meetings
 
-* Provide a butter btw the next half hourly increment and the meeting being scheduled
+* Provide a buffer btw the next half hourly increment and the meeting being scheduled
 * Generally meetings will be 25 or 50 minutes.
