@@ -1,7 +1,7 @@
 ### Auditing a page or site for accessibility
 
 1. Define the scope of the audit.
-2. On Google Drive, [create a copy of the Accessibility audit detailed report template](https://docs.google.com/spreadsheets/d/1xTNkQI-rHp0LzyjtBDRGtHFNdyG454BihGmjl71N2bA/copy).
+2. On Google Drive, [create a copy of the Accessibility audit detailed report template](https://docs.google.com/spreadsheets/d/1xTNkQI-rHp0LzyjtBDRGtHFNdyG454BihGmjl71N2bA/copy) and move it to the [Accessibility audits](https://drive.google.com/drive/u/0/folders/1YS0-ey7gSVyPKhfP90yNtGSgFFP7OubZ) drive.
 3. Start taking notes on your observations into your detailed report spreadsheet.
     * If the same feature fails multiple success criteria, list each failure in its each row.
 5. Follow the [WebAIM evaluation guide](https://webaim.org/articles/evaluationguide/).  Note any issues in your detailed report spreadsheet.
