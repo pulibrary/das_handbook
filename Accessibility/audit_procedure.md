@@ -10,5 +10,5 @@
 6. For each observation that you've noted in your spreadsheet, confirm that it is an actual accessibility issue (not user error, browser misconfiguration, etc.).
 7. For each row in your detailed report spreadsheet, fill in any applicable columns.
 8. If presenting a formal report:
-    1. Create a new document with the same sections as the [WCAG-EM report template](https://www.w3.org/WAI/test-evaluate/report-template/).  See [this Orangelight accessibility audit report](https://docs.google.com/document/d/1EFV8OB5gZ8l3YXSs_badUVX8DT-SNLS_vcEF0mpZkeY/edit) as an example.
+    1. Create a new document with the same sections as the [WCAG-EM report template](https://www.w3.org/WAI/test-evaluate/report-template/).  See [this Orangelight accessibility audit report](https://docs.google.com/document/d/1EFV8OB5gZ8l3YXSs_badUVX8DT-SNLS_vcEF0mpZkeY/edit#heading=h.98x71ddg0kjn) as an example.
     2. Include your detailed report spreadsheet as an appendix to your report document.
