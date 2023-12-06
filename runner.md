@@ -64,5 +64,7 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
   * If the ticket is an Electronic Resource issue then transfer it to the ESupport queue.
   * If the ticket has general reference questions then transfer it to the EReference queue.
   * If the ticket is a circulation/missing book question then transfer it to the EReference queue (circulation does not have its own queue).
+  * If the ticket is a request for the library to purchase some material, transfer it to the EReference queue.
   * If the ticket is a request to reset an aeon password, transfer it to the Special Collections queue.
+  * If the ticket doesn't fit into one of the categories above, transfer it to the EReference queue for future triage.
 * If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket.
