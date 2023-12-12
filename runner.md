@@ -68,3 +68,15 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
   * If the ticket is a request to reset an aeon password, transfer it to the Special Collections queue.
   * If the ticket doesn't fit into one of the categories above, transfer it to the EReference queue for future triage.
 * If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket.
+
+### Blocking libanswers spam addresses
+
+If you are a libanswers admin, you may follow this procedure to block an email address in libanswers:
+
+1. Go to https://faq.library.princeton.edu/admin/sysset/access
+2. Scroll down to "Block List for Email, SMS, and LibChat"
+3. Press the "Add Entry to Blocking List" button.
+4. Add the email address in the "Address/Number" field.
+5. Press the "Add Block" button.
+
+If you are not a libanswers admin, Vickie can block the email address for you.
