@@ -67,6 +67,7 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
   * If the ticket is a request for the library to purchase some material, transfer it to the EReference queue.
   * If the ticket is a request to reset an aeon password, transfer it to the Special Collections queue.
   * If the ticket doesn't fit into one of the categories above, transfer it to the EReference queue for future triage.
+* If the ticket is spam, press the circle with a line through it.  Then, go to the Spam tab and delete the ticket (without this second step, libanswers sometimes will move spam messages back into the main queue).
 * If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket.
 
 ### Blocking libanswers spam addresses
