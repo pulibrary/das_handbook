@@ -6,6 +6,8 @@
 
 * [Dubbot](https://princeton.dubbot.com/)
 
+* [MagentaA11y](https://www.magentaa11y.com/)
+
 #### General accessibility checkers
 
 * [Axe-devtools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US)
