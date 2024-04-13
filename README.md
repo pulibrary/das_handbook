@@ -13,7 +13,7 @@ The team works on many applications utilizing Ruby, Rails, Drupal, Solr, and som
 ## High Visibility Projects:
 The [Library Catalog](https://catalog.princeton.edu/) supports access to bibliographic material that the library owns or has access to. We made many updates during the start of the pandemic to allow the Princeton users access to materials that the Princeton Library owns without needing to be physically present; For example Controlled Digital Lending (CDL), which allows students access to online copies of physical material for their classes.
 
-We have Drupal websites that allow content editors and Librarians to post new information for the library users and also serve as the primary access point to Library services and subscription electronic resources. These sites range from Drupal 7 to Drupal 9. These include the [Library website](https://library.princeton.edu/). 
+We have Drupal websites that allow content editors and Librarians to post new information for the library users and also serve as the primary access point to Library services and subscription electronic resources. These sites range from Drupal 7 to Drupal 10. These include the [Library website](https://library.princeton.edu/). 
 
 In addition we support many websites that utilize various technologies. 
 
