@@ -21,7 +21,7 @@ assignees: ''
     - [ ] [Github issues and how we label them](https://github.com/pulibrary/dacs_handbook/blob/main/issues-and-labels.md)
     - [ ] [Our board](https://github.com/pulibrary/dacs_handbook/blob/main/board.md)
 - [ ] [Discovery and Access Services google drive](https://drive.google.com/drive/folders/1rSAXeVtSKQ_uvo1P7OFMvECNwoKZlsS_)
-- [ ] Become familiar with [confluence](https://lib-confluence.princeton.edu/)
+- [ ] Become familiar with [confluence](https://pul-confluence.atlassian.net/wiki/spaces/PUL/overview?mode=global)
 - [ ] [Accessibility syllabus](https://github.com/pulibrary/dacs_handbook/blob/main/Accessibility/accessibility_syllabus.md)
 - [ ] Deploying code with [Ansible Tower](https://ansible-tower.princeton.edu/)
     - [ ] [Procedure in PUL IT handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md)
