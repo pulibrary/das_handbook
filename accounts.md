@@ -12,7 +12,15 @@ All developers need a github profile handle with a public key to push and pull c
 * Libanswers https://princeton.libapps.com/ (Patron facing tickets) - Kevin can grant access (student developers can skip this)
 * SN@P (Staff facing tickets) - Request access from Tracy Hall in Operations (student developers can skip this)
 * Approvals (Library Travel Requests) - account created automatically
-* Lastpass (need to be added to various Shared ITIMS folders once an account exists - https://informationsecurity.princeton.edu/LastPass)
+* [Lastpass](https://informationsecurity.princeton.edu/LastPass) (need to be added to various Shared ITIMS folders once an account exists)
+  * When you invite someone, lastpass will give you some overly restrictive permissions that will cause problems anytime somebody tries to use the lastpass CLI:<br>
+![The lastpass permissions invite screen, with the default permission settings -- read only and hide passwords -- which cause problems](https://github.com/pulibrary/dacs_handbook/assets/7086943/0c673b3e-c5b3-4063-bedf-ebba18c2ae18)<br>
+Instead of the restrictive settings in the screenshot above, be sure that the permissions are the following:
+    *  Administrator: checked
+    *  Read-only: unchecked
+    *  Hide Passwords: unchecked
+
+
 
 # Externally Hosted Catalog Related Applications
 * Alma (ask the Alma managers in the #alma-dacs channel.  Students can skip this until they need to work on a ticket that involves alma)
