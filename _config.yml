@@ -1,0 +1,9 @@
+title: DACS Handbook
+
+url: "https://github.com/pulibrary/dacs_handbook/"
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
