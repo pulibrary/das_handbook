@@ -1,3 +1,7 @@
+---
+layout: default
+title: Work Cycles
+---
 # Team Work Cycles
 
 We currently alternate between two types of work cycles

@@ -1,3 +1,9 @@
+---
+layout: default
+title: VoiceOver basic testing
+parent: Accessibility
+---
+
 # Testing a page using VoiceOver
 
 1. Open the page you'd like to test in Safari, rather

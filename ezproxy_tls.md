@@ -1,3 +1,7 @@
+---
+layout: default
+title: EZProxy TLS
+---
 ## ACME TLS 
 
 We use the Automated Certificate Management Environment (ACME) [defined here](https://github.com/pulibrary/ops-catchall/blob/main/projects/incommon/incommon_certbot_ubuntu.md) and included in the [EzProxy Role](https://github.com/pulibrary/princeton_ansible/tree/main/roles/ezproxy). 

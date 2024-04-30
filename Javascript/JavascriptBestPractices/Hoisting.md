@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hoisting
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 
 ## Hoisting

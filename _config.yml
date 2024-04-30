@@ -4,6 +4,12 @@ url: "https://github.com/pulibrary/dacs_handbook/"
 
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
+nav_enabled: true
+mermaid:
+  version: "10.9.0"
+aux_links:
+  "Onboard a new team member": "https://github.com/pulibrary/dacs_handbook/issues/new?assignees=&labels=onboarding&projects=&template=onboarding.md&title=Onboarding+%5BINSERT+NAME+HERE%5D"
+  "Offboard a team member": "https://github.com/pulibrary/dacs_handbook/issues/new?assignees=&labels=Offboarding&projects=&template=offboarding.md&title=Offboarding+%5BINSERT+NAME+HERE%5D"

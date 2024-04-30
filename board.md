@@ -1,3 +1,7 @@
+---
+layout: default
+title: Board
+---
 # Board
 
 Our team tracks our work on our [Zenhub board](https://app.zenhub.com/workspaces/feature-work-cycle-board-571691cab409d8d821b873be/board).

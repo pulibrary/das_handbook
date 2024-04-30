@@ -1,3 +1,7 @@
+---
+layout: default
+title: Accounts
+---
 These are services and applications a dev on the team needs to have to support
 our operations.
 

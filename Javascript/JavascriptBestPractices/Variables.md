@@ -1,3 +1,8 @@
+---
+layout: default
+title: Variables
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 ## Variables
 

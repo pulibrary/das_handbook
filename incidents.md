@@ -1,3 +1,7 @@
+---
+layout: default
+title: Incidents
+---
 ### Incident response
 
 If an application is down, performance is seriously degraded,

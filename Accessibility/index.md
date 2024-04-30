@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Javascript Best Practices
+title: Accessibility
 has_children: true
 ---

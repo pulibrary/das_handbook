@@ -1,3 +1,9 @@
+---
+layout: default
+title: Windows High Contrast Mode
+parent: Accessibility
+---
+
 ### Testing a UI using Windows High Contrast Mode
 
 1. Download Microsoft's [Remote Desktop Client for Mac](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-mac) or another RDP client.

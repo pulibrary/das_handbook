@@ -1,3 +1,7 @@
+---
+layout: default
+title: Creating a new Rails application
+---
 # Checklist for creating a new DACS rails application
 
 - [ ] The application has a github repo in the pulibrary organization.

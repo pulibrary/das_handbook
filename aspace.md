@@ -1,3 +1,7 @@
+---
+layout: default
+title: Aspace
+---
 # ArchivesSpace
 ArchivesSpace is our Archival Content Management System. It contains our archival data of record.
 

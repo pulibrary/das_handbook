@@ -1,3 +1,7 @@
+---
+layout: default
+title: SNAP
+---
 SNAP (Service Now At Princeton) is the university's ticket system.  The default notifications can be quite overwhelming.
 
 To reduce the notifications to just the relevant ones:

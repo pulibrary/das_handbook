@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Accessibility Syllabus
+parent: Accessibility
+---
 # Accessibility Syllabus
 
 ## Learning outcomes

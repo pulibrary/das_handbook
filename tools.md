@@ -1,3 +1,7 @@
+---
+layout: default
+title: Tools
+---
 Common Team Tools
 
 * Lando: https://lando.dev/ 

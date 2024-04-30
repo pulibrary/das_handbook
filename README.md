@@ -1,3 +1,6 @@
+---
+layout: default
+---
 #  Discovery and ACcess Services (DACS)
 
 ## Responsibilities 

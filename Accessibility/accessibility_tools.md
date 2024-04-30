@@ -1,3 +1,8 @@
+---
+layout: default
+title: Accessibility tools
+parent: Accessibility
+---
 ### Tools to test accessibility
 
 * [Windows High Contrast Mode](windows_high_contrast_mode.md).

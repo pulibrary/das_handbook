@@ -1,3 +1,8 @@
+---
+layout: default
+title: Linters
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 
 ## Linters

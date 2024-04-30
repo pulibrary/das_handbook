@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pairing with VoiceOver
+parent: Accessibility
+---
+
 ### Pairing with VoiceOver
 
 VoiceOver testing as a pair is a good way to share knowledge and uncover issues that a single team member might miss.  Here are some tips:
