@@ -1,0 +1,28 @@
+.side-bar {
+    // Override the default, very wide sidebar
+    width: auto;
+    background-color: white;
+}
+
+.site-header {
+    background-color: var(--color-rich-black);
+    border-bottom: 2px var(--color-princeton-orange-on-black) solid;
+}
+
+.site-header a {
+    color: white;
+}
+
+.site-header a:hover, .site-header a:active {
+    background-image: unset;
+}
+
+a, .nav-list .nav-list-item .nav-list-expander {
+    color: var(--color-bleu-de-france-dark);
+}
+
+@media (min-width: 50rem) {
+    .side-bar {
+        border-right: 1px solid var(--color-tan-lighter)
+    }
+}
