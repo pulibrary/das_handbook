@@ -50,3 +50,15 @@ asdf install
 bundle install
 bundle exec jekyll serve
 ```
+
+## Deploying the handbook
+
+Github actions automatically deploys the main branch
+of this handbook whenever the main branch changes.
+
+If you want to test out deployment without merging
+to main, you can:
+
+1. Fork this repo
+1. Make sure github pages is enabled in your fork
+1. Push your changes to the main of your fork
