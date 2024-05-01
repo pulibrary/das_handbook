@@ -42,3 +42,11 @@ Kevin Reiss is the supervisor of the team.
 We are one of three development teams in Library IT Reporting to Esmé Cowles. The other two teams are:
 * [Digital Library Services](https://github.com/pulibrary/dls-handbook)
 * [Research Data and Scholarship Services](https://github.com/pulibrary/rdss-handbook)
+
+## Running this handbook locally
+
+```
+asdf install
+bundle install
+bundle exec jekyll serve
+```
