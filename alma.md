@@ -1,3 +1,7 @@
+---
+layout: default
+title: Alma
+---
 # Alma is our Library Services Platform
 
 ## Access

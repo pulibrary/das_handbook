@@ -1,3 +1,6 @@
+---
+layout: default
+---
 #  Discovery and ACcess Services (DACS)
 
 ## Responsibilities 
@@ -39,3 +42,23 @@ Kevin Reiss is the supervisor of the team.
 We are one of three development teams in Library IT Reporting to Esmé Cowles. The other two teams are:
 * [Digital Library Services](https://github.com/pulibrary/dls-handbook)
 * [Research Data and Scholarship Services](https://github.com/pulibrary/rdss-handbook)
+
+## Running this handbook locally
+
+```
+asdf install
+bundle install
+bundle exec jekyll serve
+```
+
+## Deploying the handbook
+
+Github actions automatically deploys the main branch
+of this handbook whenever the main branch changes.
+
+If you want to test out deployment without merging
+to main, you can:
+
+1. Fork this repo
+1. Make sure github pages is enabled in your fork
+1. Push your changes to the main of your fork

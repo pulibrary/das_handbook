@@ -1,3 +1,7 @@
+---
+layout: default
+title: Checking the SCSB API
+---
 ## Checking the SCSB API
 
 1. Go to the [SCSB swagger API console](https://scsb.recaplib.org:9093/swagger-ui/index.html)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: References
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 ## References
 * const and let are block scoped

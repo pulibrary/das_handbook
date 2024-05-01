@@ -1,3 +1,8 @@
+---
+layout: default
+title: Functions
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 ## Functions 
 

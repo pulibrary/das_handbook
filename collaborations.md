@@ -1,3 +1,7 @@
+---
+layout: default
+title: Collaborations
+---
 This graph shows our team's collaborations with other teams and stakeholders:
 
 ```mermaid

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Deploying code
+---
 # Deploying code
 
 We deploy code using [Ansible Tower](https://ansible-tower.princeton.edu/).  For general procedures on how to deploy code, please see [the documentation in pul-it-handbook](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md).

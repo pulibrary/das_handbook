@@ -1,3 +1,7 @@
+---
+layout: default
+title: ReShare
+---
 # ReShare
 
 ## Search VuFind By Standard Identifier

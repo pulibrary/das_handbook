@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Code Review
+---
 Pull Requests (PR) are the means by developers propose changes to a project's code.
 
 * All code changes should be introduced via Github's pull request mechanism. If you want the review of a particular team member please tag them when creating the PR.

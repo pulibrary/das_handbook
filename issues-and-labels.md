@@ -1,3 +1,7 @@
+---
+layout: default
+title: Issues and Labels
+---
 # Issues and Labels
 
 ## Issues

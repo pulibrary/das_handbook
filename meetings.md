@@ -1,3 +1,7 @@
+---
+layout: default
+title: Meetings
+---
 # DACS Meetings
 
 ##  Daily 15 Minute Stand-up

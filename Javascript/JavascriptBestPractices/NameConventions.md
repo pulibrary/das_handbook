@@ -1,3 +1,8 @@
+---
+layout: default
+title: Name conventions
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 ## Name conventions
 * Files

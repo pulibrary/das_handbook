@@ -1,3 +1,8 @@
+---
+layout: default
+title: Destructuring
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 ## Destructuring
 

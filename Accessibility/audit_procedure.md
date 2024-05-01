@@ -1,3 +1,8 @@
+---
+layout: default
+title: Audit procedure
+parent: Accessibility
+---
 ### Auditing a page or site for accessibility
 
 1. Define the scope of the audit.

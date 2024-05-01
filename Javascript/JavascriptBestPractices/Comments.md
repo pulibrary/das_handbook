@@ -1,3 +1,8 @@
+---
+layout: default
+title: Comments
+parent: Javascript Best Practices
+---
 # [Javascript best practices](./Contents.md)
 ## Comments
 * Use comments before code
