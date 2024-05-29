@@ -37,7 +37,7 @@ assignees: ''
     - [ ] Cross-ITIMS (ask [@tpendragon](https://github.com/tpendragon))
     - [ ] Orangelight/Bibdata (ask [@christinach](https://github.com/christinach))
     - [ ] Orangelight issues - Cleanup (ask [@christinach](https://github.com/christinach))
-- [ ] Browse the [DACS handbook](https://github.com/pulibrary/dacs_handbook).  You don't need to read it all now, just get a sense for what documentation it contains.
+- [ ] Browse the [DACS handbook](https://pulibrary.github.io/dacs_handbook/).  You don't need to read it all now, just get a sense for what documentation it contains.
 - [ ] Remember to ask questions 😀
 
 ## Monitoring
