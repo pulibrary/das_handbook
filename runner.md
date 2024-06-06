@@ -4,7 +4,7 @@ title: Runner role
 ---
 # Runner role
 
-The runner role switches off between team members each week.  The runner should be somebody who is planning to be in for the whole week.
+The runner role switches off between team members each week.  The runner should be somebody who is planning to be in for the whole week. The runner as executes a deployment of all our applications to staging and production during the course of their week as the runner. 
 
 ## Initial setup
 
@@ -85,3 +85,10 @@ If you are a libanswers admin, you may follow this procedure to block an email a
 5. Press the "Add Block" button.
 
 If you are not a libanswers admin, Vickie can block the email address for you.
+
+## Deployments
+
+The runner executes a production and staging deploy of each of our DACS applications. 
+
+1. Go to [Ansible Tower](https://ansible-tower.princeton.edu/).
+2. Execute a [Deployment with Capistrano](https://ansible-tower.princeton.edu/#/templates/job_template/13/details) for each [DACS application](https://docs.google.com/spreadsheets/d/1fJZ6CE4yq4EyaoeOE__bjEYPUv5xlZVM0bPKfyVAUQw/edit#gid=0) for those applications that have a staging and production environment.  
