@@ -94,6 +94,10 @@ assignees: ''
 - [ ] Staging
 - [ ] Production
 
+#### EZ Proxy
+- [ ] Staging
+- [ ] Production
+
 #### Allsearch Frontend
 - [ ] Staging
 - [ ] Production
