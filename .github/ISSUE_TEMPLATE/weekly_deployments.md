@@ -50,10 +50,6 @@ assignees: ''
 - [ ] Staging
 - [ ] Production
 
-#### PUL_Assets
-- [ ] Staging
-- [ ] Production
-
 #### Library Website
 - [ ] Staging
 - [ ] Production
