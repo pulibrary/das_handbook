@@ -1,7 +1,7 @@
 ---
 name: deployments
 about: Run deployments for all applications
-title: 'Run deployments for the week of [INSERT DATE HERE]'
+title: 'Run deployments for the workcycle starting on [INSERT DATE HERE]'
 labels: 'deployments'
 assignees: ''
 
