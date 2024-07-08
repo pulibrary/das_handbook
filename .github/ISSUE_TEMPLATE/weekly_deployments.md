@@ -52,6 +52,7 @@ assignees: ''
 
 #### Library Website
 - [ ] Staging
+- [ ] Before deploying to production check [Check if end users have changed any settings](https://github.com/pulibrary/pul_library_drupal/wiki/Sync-a-Feature(s)-from-Production)
 - [ ] Production
 
 #### Special Collections
