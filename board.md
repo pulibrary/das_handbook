@@ -39,7 +39,7 @@ Every sprint a different team member rotates to the role of "board manager". Thi
 
 ### Deployments as the Board Manager
 
-The runner executes a production and staging deploy of each of our DACS applications. 
+The board manager executes a production and staging deploy of each of our DACS applications. 
 
 1. Go to [Ansible Tower](https://ansible-tower.princeton.edu/).
 2. Execute a [Deployment with Capistrano](https://ansible-tower.princeton.edu/#/templates/job_template/13/details) for each [DACS application](https://docs.google.com/spreadsheets/d/1fJZ6CE4yq4EyaoeOE__bjEYPUv5xlZVM0bPKfyVAUQw/edit#gid=0) for those applications that have a staging and production environment.  
