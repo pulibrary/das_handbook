@@ -50,10 +50,6 @@ assignees: ''
 - [ ] Staging
 - [ ] Production
 
-#### LibApps
-- [ ] Staging
-- [ ] Production
-
 #### PUL_Assets
 - [ ] Staging
 - [ ] Production
