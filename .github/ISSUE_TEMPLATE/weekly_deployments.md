@@ -59,10 +59,6 @@ assignees: ''
 - [ ] Staging
 - [ ] Production
 
-#### Discovery Utils
-- [ ] Staging
-- [ ] Production
-
 #### Friends of the Library
 - [ ] Staging
 - [ ] Production
