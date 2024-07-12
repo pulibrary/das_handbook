@@ -15,3 +15,4 @@ title: Creating a new Rails application
 - [ ] The application uses rspec (using the [rspec-rails procedures](https://github.com/rspec/rspec-rails) to install it)
 - [ ] The application has a circleci configuration at .circleci/config.yml (CircleCI provides an [example rails application CircleCI config file](https://circleci.com/developer/orbs/orb/circleci/ruby#usage-ruby_rails_sample_app)).
 - [ ] The application uses the [axe-core-rspec gem](https://github.com/dequelabs/axe-core-gems) and includes an accessibility spec that checks for accessibility.
+- [ ] The application is using [rubocop](https://github.com/rubocop/rubocop) 
