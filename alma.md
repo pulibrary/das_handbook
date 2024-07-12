@@ -51,4 +51,4 @@ Daily job that adds/updates/deletes Princeton metadata in SCSB.
 
 ### Recap Partner Renewal Job
 
-Daily job that processes renewal requests for parter SCSB items loaned to Princeton patrons. Also leverages NCIP. 
+Daily job that processes renewal requests for partner SCSB items loaned to Princeton patrons. Also leverages NCIP. 
