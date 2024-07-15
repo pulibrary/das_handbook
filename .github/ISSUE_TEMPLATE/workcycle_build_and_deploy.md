@@ -161,10 +161,10 @@ Shares a server with lib-jobs, no separate playbook
   - [ ] Playbook
   - [ ] Deploy
 #### Video Reserves
-- [ ] [Staging](https://videoreserves-staging.princeton.edu/hrc/) (blank page even when working)
+- [ ] [Staging](https://videoreserves-staging.princeton.edu/hrc/vod/clip.php) (forwards to 'days of heaven')
   - [ ] Playbook
   - [ ] Deploy
-- [ ] [Production](https://videoreserves-prod.princeton.edu/hrc/) (blank page even when working)
+- [ ] [Production](https://videoreserves-prod.princeton.edu/hrc/vod/clip.php) (forwards to 'days of heaven')
   - [ ] Playbook
   - [ ] Deploy
 
