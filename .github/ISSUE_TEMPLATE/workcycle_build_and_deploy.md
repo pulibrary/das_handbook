@@ -154,6 +154,7 @@ Shares a server with lib-jobs, no separate playbook
 
 ### Other (non-Drupal) PHP applications
 #### Princeton and Slavery
+Note: Private repository, cannot use Tower to deploy, must deploy from local environment
 - [ ] [Staging](https://slavery-staging.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
@@ -161,6 +162,7 @@ Shares a server with lib-jobs, no separate playbook
   - [ ] Playbook
   - [ ] Deploy
 #### Video Reserves
+Note: Private repository, cannot use Tower to deploy, must deploy from local environment
 - [ ] [Staging](https://videoreserves-staging.princeton.edu/hrc/vod/clip.php) (forwards to 'days of heaven')
   - [ ] Playbook
   - [ ] Deploy
