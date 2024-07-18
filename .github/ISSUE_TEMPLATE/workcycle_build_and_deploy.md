@@ -163,10 +163,10 @@ Note: Private repository, cannot use Tower to deploy, must deploy from local env
   - [ ] Deploy
 #### Video Reserves
 Note: Private repository, cannot use Tower to deploy, must deploy from local environment
-- [ ] [Staging](https://videoreserves-staging.princeton.edu/hrc/) (blank page even when working)
+- [ ] [Staging](https://videoreserves-staging.princeton.edu/hrc/vod/clip.php) (forwards to 'days of heaven')
   - [ ] Playbook
   - [ ] Deploy
-- [ ] [Production](https://videoreserves-prod.princeton.edu/hrc/) (blank page even when working)
+- [ ] [Production](https://videoreserves-prod.princeton.edu/hrc/vod/clip.php) (forwards to 'days of heaven')
   - [ ] Playbook
   - [ ] Deploy
 
