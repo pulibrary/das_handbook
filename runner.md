@@ -60,7 +60,7 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
 ## Triaging new lib-answers tickets from the Catalog feedback and Website support.
 
 * Login to lib answers using CAS https://princeton.libapps.com/libapps/login.php
-* Select the Catalog feedback or the Website support queue. 
+* Select the Catalog feedback queue. 
 * Triage the unassigned tickets.
 * Filter tickets with status: 'new' or 'open'.
 * Transfer the ticket if needed:
@@ -73,15 +73,3 @@ Don't use the "Create Issue" button in honeybadger, since the history can be pur
   * If the ticket doesn't fit into one of the categories above, transfer it to the EReference queue for future triage.
 * If the ticket is spam, press the circle with a line through it.  Then, go to the Spam tab and delete the ticket (without this second step, libanswers sometimes will move spam messages back into the main queue).
 * If the ticket is a coding issue then create a github ticket. Please include the lib answers ticket number in the github ticket.
-
-### Blocking libanswers spam addresses
-
-If you are a libanswers admin, you may follow this procedure to block an email address in libanswers:
-
-1. Go to https://faq.library.princeton.edu/admin/sysset/access
-2. Scroll down to "Block List for Email, SMS, and LibChat"
-3. Press the "Add Entry to Blocking List" button.
-4. Add the email address in the "Address/Number" field.
-5. Press the "Add Block" button.
-
-If you are not a libanswers admin, Vickie can block the email address for you.
