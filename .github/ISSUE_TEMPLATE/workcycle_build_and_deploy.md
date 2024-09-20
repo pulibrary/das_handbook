@@ -23,7 +23,7 @@ assignees: ''
   - [ ] Playbook
   - [ ] Deploy
 #### Bibdata
-- [ ] [Staging](https://bibdata-staging.princeton.edu/)
+- [ ] [Staging](https://bibdata-staging.lib.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
 - [ ] [QA](https://bibdata-qa.princeton.edu/)
