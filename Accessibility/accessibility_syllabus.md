@@ -7,7 +7,7 @@ parent: Accessibility
 
 ## Learning outcomes
 
--   Be able to run and evaluate the output of a browser tool like Lighthouse, WAVE, or aXe devtools or npm package pa11y.
+-   Be able to run and evaluate the output of a browser tool like Lighthouse, WAVE, or axe devtools or npm package pa11y.
 -   Be able to use VoiceOver to evaluate a page or component
 -   Be able to test with a keyboard
 -   Be able to use a Color Contrast checker tool, [https://www.tpgi.com/cca-download/](https://www.tpgi.com/cca-download/)
