@@ -66,13 +66,6 @@ Shares a server with lib-jobs, no separate playbook
 - [ ] [Production](https://lockers-and-study-spaces.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
-#### Mudd DB
-- [ ] [Staging](https://library-staging.princeton.edu/mudd-dbs)
-  - [ ] Playbook
-  - [ ] Deploy
-- [ ] [Production](https://library.princeton.edu/mudd-dbs)
-  - [ ] Playbook
-  - [ ] Deploy
 #### Orangelight
 - [ ] [Staging](https://catalog-staging.princeton.edu/)
   - [ ] Playbook
@@ -116,20 +109,13 @@ Shares a server with lib-jobs, no separate playbook
   - [ ] Playbook
   - [ ] Deploy
 #### Friends of the Library
-- [ ] [Staging](https://fpul-staging.princeton.edu/)
-  - [ ] Playbook
-  - [ ] Deploy
 - [ ] [Production](https://fpul.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
 #### Library Website
-- [ ] [Staging](https://library-staging.princeton.edu/)
-  - [ ] Playbook
-  - [ ] Deploy
-- [ ] Before deploying to production check [Check if end users have changed any settings](https://github.com/pulibrary/pul_library_drupal/wiki/Sync-a-Feature(s)-from-Production)
 - [ ] [Production](https://library.princeton.edu/)
   - [ ] Playbook
-  - [ ] Deploy - Before deploying to production check [Check if end users have changed any settings](https://github.com/pulibrary/pul_library_drupal/wiki/Sync-a-Feature(s)-from-Production)
+  - [ ] Deploy
 #### ReCAP
 - [ ] [Staging](https://recap-staging.princeton.edu/)
   - [ ] Playbook
@@ -145,9 +131,6 @@ Shares a server with lib-jobs, no separate playbook
   - [ ] Playbook
   - [ ] Deploy
 #### Special Collections
-- [ ] [Staging](https://library-staging.princeton.edu/special-collections/)
-  - [ ] Playbook
-  - [ ] Deploy
 - [ ] [Production](https://library.princeton.edu/special-collections/)
   - [ ] Playbook
   - [ ] Deploy
