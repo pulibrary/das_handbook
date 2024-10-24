@@ -49,10 +49,16 @@ git clone git@github.com:archivesspace/archivesspace.git
 cd archivesspace
 docker-compose -f docker-compose-dev.yml up
 cd ./common/lib && wget https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar && cd -
-Add "java openjdk-19.0.2" to .tool-versions
+echo "java openjdk-19.0.2" > .tool-versions
+asdf plugin add java
 asdf install
 ./build/run bootstrap (it took 2 minutes and 45 seconds)
 gzip -dc ./build/mysql_db_fixtures/accessibility.sql.gz | mysql --host=127.0.0.1 --port=3306  -u root -p123456 archivesspace
 brew install supervisord
 supervisord -c supervisord/archivesspace.conf
 ```
+
+* The staff interface will be at http://localhost:3000/ (username is admin, password is admin)
+* The API will be at http://localhost:4567/
+* You can access the database with `mysql --host=127.0.0.1 --port=3306  -u root -p123456 archivesspace`
+
