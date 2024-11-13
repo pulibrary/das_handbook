@@ -4,7 +4,7 @@ title: Runner role
 ---
 # Runner role
 
-The runner role switches off between team members each week.  The runner should be somebody who is planning to be in for the whole week. 
+The runner role switches off between team members at the beginning of each week.  Make sure that the runner is aware of their role on the Friday prior to the start of the next work week. Ideally the runner should be somebody who is planning to be in for the whole week. 
 
 ## Initial setup
 
