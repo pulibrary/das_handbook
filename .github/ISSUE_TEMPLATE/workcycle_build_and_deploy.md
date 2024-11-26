@@ -1,7 +1,7 @@
 ---
 name: deployments
 about: Run playbooks and deployments and for all applications
-title: 'Run deployments for the workcycle starting on [INSERT DATE HERE]'
+title: 'Run deployments for the week starting on [INSERT DATE HERE]'
 labels: ['deployments', 'playbooks']
 assignees: ''
 
@@ -102,10 +102,10 @@ Shares a server with lib-jobs, no separate playbook
 
 ### Drupal PHP applications
 #### Byzantine Translations
-- [ ] [Staging](https://library-staging.princeton.edu/byzantine/)
+- [ ] [Staging](https://byzantine-staging.lib.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
-- [ ] [Production](https://library.princeton.edu/byzantine/)
+- [ ] [Production](https://byzantine.lib.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
 #### Friends of the Library
