@@ -109,11 +109,11 @@ Shares a server with lib-jobs, no separate playbook
   - [ ] Playbook
   - [ ] Deploy
 #### Friends of the Library
-- [ ] [Production](https://fpul.princeton.edu/)
+- [ ] [Production](https://fpul-migrated.lib.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
 #### Library Website
-- [ ] [Production](https://library.princeton.edu/)
+- [ ] [Production](https://library-migrated.lib.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
 #### ReCAP
@@ -131,7 +131,7 @@ Shares a server with lib-jobs, no separate playbook
   - [ ] Playbook
   - [ ] Deploy
 #### Special Collections
-- [ ] [Production](https://library.princeton.edu/special-collections/)
+- [ ] [Production](https://library-migrated.lib.princeton.edu/special-collections/)
   - [ ] Playbook
   - [ ] Deploy
 
