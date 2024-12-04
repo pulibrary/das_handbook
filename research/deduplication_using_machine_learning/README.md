@@ -1,10 +1,8 @@
 # Research: Using Machine Learning for Record Deduplication
+## Introduction
 Right now, the Catalog includes Princeton records from Alma and partner records from SCSB. There can be duplication between these collections, which can be confusing for users of the Catalog.
 
 Can we identify when a SCSB record is a duplicate of a record in Alma using supervised or semi-supervised machine learning?
-
-## Introduction
-
 
 ### Issues
 #### Scalability
@@ -23,6 +21,9 @@ When discussing mechanized deduplication, you have to make a decision between fa
 Part of that decision is related to what you do with this information - if you are deaccessioning a physical book, and have a mission like Princeton's, you probably want to err on the side of keeping books that may be duplicates. 
 
 If the deduplication is more ephemeral, it may be more acceptable to err on the side of calling more things duplicates that are not actually duplicates.
+
+#### Transliterations
+Right now, our example data does not have any transliterated or non-Roman script examples. Might have better matching if we match on the non-transliterated vernacular fields that are linked to the 245, like the goldrush_algorithm does.
 
 ## Methods
 ### Turning text into something models can handle
@@ -75,6 +76,15 @@ The numbers for this matrix is much smaller, because it is only for those record
 ![Decision tree model confusion matrix](files/decision_tree_confusion_matrix.jpg)
 
 ## Next Steps
+It turns out that other people had the same idea, and there is a python library - [dedupe](https://github.com/dedupeio/dedupe) - that uses very similar approaches, but has had a lot more time to be refined. They have a good explanation of [how it works](https://dedupe.io/documentation/how-it-works). 
+
+I created a [Jupyter notebook](https://jupyter.org/) using this library as a [proof of concept](https://github.com/pulibrary/dedupe_jupyter), and it was very successful.
+
+Possible next steps would be:
+1. See whether we could scale up using the Python dedupe library against Marc records. I have started a [python repository to prepare the data](https://github.com/pulibrary/pymarc_dedupe), based on the fields used for the GoldRush algorithm.
+1. Recruit people to manually deduplicate a known set of records and compare their results and measure how much they agree
+1. Train the dedupe algorithm with a portion of the human-generated sets and compare its performance with the rest of that human-generated set
+1. Compare the performance of both the humans and the dedupe machine learning algorithm with the more manual GoldRush algorithm
 
 ## References
 - Simhash - https://matpalm.com/resemblance/simhash/
@@ -86,3 +96,6 @@ The numbers for this matrix is much smaller, because it is only for those record
 - Mark Zelesky's implementation of the Goldrush algorithm (Private repository) - https://github.com/PrincetonUniversityLibrary/lib_reports/blob/main/ruby/lib/ils_sql/goldrush_algorithm.rb 
 - GoldRush Match Key description - https://coalliance.org/sites/default/files/GoldRush-Match_KeyJanuary2024_0.doc
 - Wagner, G., (2024). BibDedupe: An Open-Source Python Library for Bibliographic Record Deduplication. Journal of Open Source Software, 9(97), 6318, https://doi.org/10.21105/joss.06318
+  - This software library focuses on deduplication of journal articles for meta-analysis and research synthesis, not general bibliographic records, or records of monographs
+  - Does not give sufficient weight to differing years for our purposes
+- Dedupe python library https://github.com/dedupeio/dedupe 
