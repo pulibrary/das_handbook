@@ -62,3 +62,9 @@ supervisord -c supervisord/archivesspace.conf
 * The API will be at http://localhost:4567/
 * You can access the database with `mysql --host=127.0.0.1 --port=3306  -u root -p123456 archivesspace`
 
+### Installing a plugin in your local development
+
+1. `cp config/config-example.rb config/config.rb`.
+2. Edit the plugin array in `config/config.rb` to add your plugin.
+3. Add the code for your plugin to the `plugins` directory.
+4. Ctrl+C your supervisord and start it again.
