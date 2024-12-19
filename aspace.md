@@ -64,7 +64,7 @@ supervisord -c supervisord/archivesspace.conf
 
 ### Installing a plugin in your local development
 
-1. `cp config/config-example.rb config/config.rb`.
+1. `cp common/config/config-example.rb common/config/config.rb`
 2. Edit the plugin array in `config/config.rb` to add your plugin.
 3. Add the code for your plugin to the `plugins` directory.
 4. Ctrl+C your supervisord and start it again.
