@@ -108,14 +108,6 @@ Shares a server with lib-jobs, no separate playbook
 - [ ] [Production](https://byzantine.lib.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
-#### Friends of the Library
-- [ ] [Production](https://fpul-migrated.lib.princeton.edu/)
-  - [ ] Playbook
-  - [ ] Deploy
-#### Library Website
-- [ ] [Production](https://library-migrated.lib.princeton.edu/)
-  - [ ] Playbook
-  - [ ] Deploy
 #### ReCAP
 - [ ] [Staging](https://recap-staging.princeton.edu/)
   - [ ] Playbook
@@ -128,10 +120,6 @@ Shares a server with lib-jobs, no separate playbook
   - [ ] Playbook
   - [ ] Deploy
 - [ ] [Production](https://researchdata.princeton.edu/)
-  - [ ] Playbook
-  - [ ] Deploy
-#### Special Collections
-- [ ] [Production](https://library-migrated.lib.princeton.edu/special-collections/)
   - [ ] Playbook
   - [ ] Deploy
 
