@@ -115,13 +115,6 @@ Shares a server with lib-jobs, no separate playbook
 - [ ] [Production](https://recap.princeton.edu/)
   - [ ] Playbook
   - [ ] Deploy
-#### Research Data
-- [ ] [Staging](https://researchdata-staging.princeton.edu/)
-  - [ ] Playbook
-  - [ ] Deploy
-- [ ] [Production](https://researchdata.princeton.edu/)
-  - [ ] Playbook
-  - [ ] Deploy
 
 ### Other (non-Drupal) PHP applications
 #### Princeton and Slavery
